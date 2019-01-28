@@ -12,3 +12,7 @@ Reading file lines, here we forced the gcc to accept the iterations so it can't 
 
 This assignment introduced me to alot of performance analysis that will help me alot, but I suggest that the best that if we had a code to optimize and try to achieve the same result with higher IPC instead of trying to get any non useful code.
 
+testRD.c is the file containing the code.
+run.sh is a ready sh file to get a very huge matrix online and try the code on it.
+
+

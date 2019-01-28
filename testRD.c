@@ -5,7 +5,7 @@
 
 static int row = 2;
 static int PRINT = 0;
-static char * FILENAME = "mawi_201512020330.mtx";
+static char * FILENAME = "MOLIERE_2016/MOLIERE_2016.mtx";
 
 int main(int argc, char** argv){
   FILE* file = fopen (FILENAME, "r");
